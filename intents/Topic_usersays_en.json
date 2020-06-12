@@ -1,0 +1,202 @@
+[
+  {
+    "id": "4e2e3f86-1e86-4783-b28c-a5d4689a1318",
+    "data": [
+      {
+        "text": "Lookup my ",
+        "userDefined": false
+      },
+      {
+        "text": "annual salary",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10bc9642-1a8d-4da4-bf52-b4ebd54f50ce",
+    "data": [
+      {
+        "text": "what is my ",
+        "userDefined": false
+      },
+      {
+        "text": "annual salary",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "965d5d10-bf56-4f2a-b15e-6d03844ca442",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "hours of work",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": " are there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5e32081-aecc-4549-8249-840efadd2b6c",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "hours of work",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "393b9d22-0e4b-4db4-88ce-73af89166b03",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "annual salary",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "730e1757-6e96-483e-b458-276ab7386caf",
+    "data": [
+      {
+        "text": "can you lookup ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "596a1a74-10b4-4802-9496-9777f792450a",
+    "data": [
+      {
+        "text": "I need to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "633d2b32-5cdd-4692-8d1d-0e952fcc001b",
+    "data": [
+      {
+        "text": "Where can I find out about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "514487c5-8b4a-4aaa-a312-56be4c953a3e",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1e15d74-2918-4c52-9f1b-84547a15577a",
+    "data": [
+      {
+        "text": "I want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

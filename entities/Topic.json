@@ -1,0 +1,9 @@
+{
+  "id": "c7c6e544-52d3-4e04-b947-bb4c47527c26",
+  "name": "Topic",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}
